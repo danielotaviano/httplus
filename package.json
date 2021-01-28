@@ -1,6 +1,10 @@
 {
   "name": "httplus",
+<<<<<<< HEAD
   "version": "1.0.2",
+=======
+  "version": "1.0.1",
+>>>>>>> 406237242c3c27bb49cedac5defbee7b2d360f7e
   "description": "",
   "main": "index.js",
   "scripts": {
